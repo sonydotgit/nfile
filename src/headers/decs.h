@@ -25,7 +25,6 @@
 #include <dirent.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <error.h>
 
 int
 countFile(DIR* dp);
