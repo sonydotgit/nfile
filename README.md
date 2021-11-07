@@ -1,5 +1,5 @@
 # nfile
-Displays the number of files.
+Displays the count of files.
 
 ## Syntax
 nfile [path] ...
