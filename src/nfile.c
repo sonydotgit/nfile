@@ -41,7 +41,9 @@ main(int argc, char* argv[]) {
       exit(1);
     }
     
-    printf("%s:\n", argv[i]);
+    if (argc > 2)
+      printf("%s:\n", argv[i]);
+    
     printf("%i\n", countFile(dp));
 
     if (i != (argc-1))
