@@ -1,5 +1,6 @@
 # nfile
-Displays the count of files.
+Feed this command with some Directory names and boom!
+You'll have the count of files present in those respective directories.
 
 ## Syntax
 nfile [path] ...
