@@ -8,7 +8,7 @@ If passed nothing, it'll display the total number of files present in the curren
 nfile [path] ...
 
 ## Screenshot
-![](data/scrnshots/nfile.png)
+![](data/scrnshot/nfile.png)
 
 ## Install
 
