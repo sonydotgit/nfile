@@ -5,7 +5,7 @@ You'll have the count of files present in those respective directories.
 If passed nothing, it'll display the total number of files present in the current working directory (including hidden files).
 
 ## Syntax
-nfile [path] ...
+nfile [DirectoryName] ...
 
 ## Screenshot
 ![](data/scrnshot/nfile.png)
