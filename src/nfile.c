@@ -37,7 +37,7 @@ main(int argc, char* argv[]) {
   for(int i=1; i<argc; i++) {
   
     if ((dp = opendir(argv[i])) == NULL) {
-      fprintf(stderr, "Can't open '%s'\n", argv[i]);
+      fprintf(stderr, "nfile: can't open '%s': %s\n", argv[i], strerror(errno));
       exit(1);
     }
     
