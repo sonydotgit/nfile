@@ -21,7 +21,7 @@
  * 
  */
 
-#include <x86_64-linux-gnu/sys/types.h>
+#include <sys/types.h>
 #include <dirent.h>
 #include <stdio.h>
 #include <stdlib.h>
